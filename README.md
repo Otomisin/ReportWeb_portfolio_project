@@ -2,7 +2,7 @@
 
 ![Alt text](image.png)
 
-**Report Web** is an interactive web-based dashboard that provides an overview of reported incidents in a specific location. This project aims to create an interactive platform for reporting and tracking incidents, helping authorities and organizations respond effectively to various challenges. It was last updated on *[insert last update date]*.
+**Report Web** is an interactive web-based dashboard that provides an overview of reported incidents in a specific location. This project aims to create an interactive platform for reporting and tracking incidents, helping authorities and organizations respond effectively to various challenges.
 
 ## Table of Contents
 - [Report Web - Incident Monitoring Dashboard](#report-web---incident-monitoring-dashboard)
